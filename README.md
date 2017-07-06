@@ -1,7 +1,7 @@
 # osu_python
 An [osu!api](https://github.com/ppy/osu-api) wrapper to be used by Python developers. Please review the osu!api documentation before usage.
 
-# Currently incorrect, trust nothing, the API probably doesn't work
+# Currently incorrect, trust nothing, the module doesn't even work yet, I'm not a good developer okay
 
 ## Installation
 The osu_python module can be installed using pip.
